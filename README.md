@@ -71,12 +71,13 @@ The server exposes one core tool: `get_announcements`. Call it from your MCP cli
 
   ---
 
-  ### [Next Announcement Title] - [Pub Time]
-  [Start ~ End]
+  ### 🔥 Listing of PIEVERSE on Convert & Bybit Savings - 2025-11-14 21:17
 
-  [Description]
+  2025-11-14 16:53 ~ 2025-11-14 16:53
 
-  [Link]
+  Bybit will be listing PIEVERSE on Convert on Nov 14, 2025, 1:30PM UTC and Bybit Savings at the respective dates and timings listed below.
+
+  https://announcements.bybit.com/en-US/article/-listing-of-pieverse-on-convert-blt7a4a65a0b5cce7c2/
 
   ---
   ```
